@@ -4,10 +4,8 @@
   "private": true,
   "homepage": "https://www.markfasel.com/",
   "dependencies": {
-    "kleur": "^3.0.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-router-dom": "^4.2.2",
     "react-scripts": "2.1.8",
     "styled-components": "^4.1.3"
   },
