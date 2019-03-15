@@ -1,12 +1,19 @@
 import React, { Component } from 'react';
 
+import Header from '../structure/Header';
+import Card from './styled/Cards';
+
 class Masthead extends Component {
   render() {
     return (
-      <section className="masthead">
-        <h1>Dream big, create the impossible.</h1>
-        <p>Nullam vel sem. Phasellus tempus. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Vestibulum rutrum, mi nec elementum vehicula, eros quam gravida nisl.</p>
-      </section>
+      <Card.Masthead>
+        <Header />
+        <Card.MastheadContent>
+          <h1>Dream big, create the impossible.</h1>
+          <p>Building a partnernership for your online business with creative UI/UX design and software development services.</p>
+          <p><a href="/#" className="masthead-button">Wanna chat?</a></p>
+        </Card.MastheadContent>
+      </Card.Masthead>
     );
   }
 };

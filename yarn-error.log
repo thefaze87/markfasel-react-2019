@@ -1,0 +1,60 @@
+Arguments: 
+  /Users/mfasel/.nvm/versions/node/v8.9.4/bin/node /usr/local/Cellar/yarn/1.15.2/libexec/bin/yarn.js install
+
+PATH: 
+  /Users/mfasel/.nvm/versions/node/v8.9.4/bin:/Applications/Postgres.app/Contents/Versions/9.4/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mfasel/.nvm/versions/node/v8.9.4/bin:/Applications/Postgres.app/Contents/Versions/9.4/bin:/usr/local/mysql/bin:/usr/local/mysql/bin
+
+Yarn version: 
+  1.15.2
+
+Node version: 
+  8.9.4
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Users/mfasel/dev/repos/markfasel-react-2019/package.json: Unexpected token } in JSON at position 308
+      at JSON.parse (<anonymous>)
+      at /usr/local/Cellar/yarn/1.15.2/libexec/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/usr/local/Cellar/yarn/1.15.2/libexec/lib/cli.js:304:30)
+      at /usr/local/Cellar/yarn/1.15.2/libexec/lib/cli.js:315:13
+      at <anonymous>
+
+npm manifest: 
+  {
+    "name": "markfasel-portfolio-2019",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+      "react": "^16.8.4",
+      "react-dom": "^16.8.4",
+      "react-scripts": "2.1.0",
+      "styled-components": "^4.1.2",
+      "lodash": "^4.17.4",
+      "react-redux": "^5.0.6",
+      "react-router-dom": "^4.2.2",
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+      "extends": "react-app"
+    },
+    "browserslist": [
+      ">0.2%",
+      "not dead",
+      "not ie <= 11",
+      "not op_mini all"
+    ]
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
