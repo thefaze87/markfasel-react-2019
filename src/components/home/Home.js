@@ -1,6 +1,4 @@
 import React, { Component} from 'react';
-import ReactDOM from 'react-dom';
-
 import Masthead from '../structure/Masthead';
 import About from '../structure/About';
 
