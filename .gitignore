@@ -1,8 +1,8 @@
-
-    
 .DS_STORE
 node_modules
 scripts/flow/*/.flowconfig
+yarn.lock
+package.json.lock
 *~
 *.pyc
 .grunt
