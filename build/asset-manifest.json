@@ -1,17 +1,18 @@
 {
   "main.css": "/static/css/main.9b02ceac.chunk.css",
-  "main.js": "/static/js/main.df0cb0c0.chunk.js",
-  "main.js.map": "/static/js/main.df0cb0c0.chunk.js.map",
+  "main.js": "/static/js/main.5470ac3c.chunk.js",
+  "main.js.map": "/static/js/main.5470ac3c.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
   "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.b133fab1.chunk.js": "/static/js/2.b133fab1.chunk.js",
-  "static/js/2.b133fab1.chunk.js.map": "/static/js/2.b133fab1.chunk.js.map",
+  "static/js/2.dc9dad09.chunk.js": "/static/js/2.dc9dad09.chunk.js",
+  "static/js/2.dc9dad09.chunk.js.map": "/static/js/2.dc9dad09.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.ba8ca46396d5f6132b893c70ec921b6c.js": "/precache-manifest.ba8ca46396d5f6132b893c70ec921b6c.js",
+  "precache-manifest.f7dcbc03ba177ba5a672f53c9efc5d8d.js": "/precache-manifest.f7dcbc03ba177ba5a672f53c9efc5d8d.js",
   "service-worker.js": "/service-worker.js",
   "static/css/main.9b02ceac.chunk.css.map": "/static/css/main.9b02ceac.chunk.css.map",
   "static/media/backend-ico.svg": "/static/media/backend-ico.882817e7.svg",
   "static/media/desk-mac.jpg": "/static/media/desk-mac.b9dec9c0.jpg",
   "static/media/frontend-ico.svg": "/static/media/frontend-ico.a67b534d.svg",
+  "static/media/markfasel-logo.svg": "/static/media/markfasel-logo.5043b44e.svg",
   "static/media/uxdesign-ico.svg": "/static/media/uxdesign-ico.fded5c4f.svg"
 }

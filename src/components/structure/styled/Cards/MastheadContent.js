@@ -5,7 +5,7 @@ const MastheadContent = styled.div`
   z-index: 100;
   width: 55%;
   margin: 0 auto;
-  padding: 2rem 0;
+  padding: 8rem 0;
   text-align: center;
   font-family: 'Muli', sans-serif;
   h1 {font-size: 3.5rem; font-weight: 800; margin: 0 0 0 0;}

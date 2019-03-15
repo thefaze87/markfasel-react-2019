@@ -1,7 +1,6 @@
 import styled from 'styled-components';
 import Masthead from './Masthead';
 import Header from './Header';
-import Logo from './Logo';
 import MastheadContent from './MastheadContent';
 import About from './About';
 
@@ -12,8 +11,9 @@ const Card = styled.div`
 `;
 
 Card.Masthead = Masthead;
-Card.Header = Header;
-Card.Logo = Logo;
+Card.Header = Header.Header;
+Card.Logo = Header.Logo;
+Card.Navigation = Header.Navigation;
 Card.MastheadContent = MastheadContent;
 Card.AboutMe = About.AboutMe;
 Card.Services = About.Services;
