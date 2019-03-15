@@ -2,6 +2,7 @@
   "name": "markfasel-portfolio-2019",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://www.markfasel.com/",
   "dependencies": {
     "kleur": "^3.0.1",
     "lodash": "^4.17.4",
@@ -16,5 +17,11 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
